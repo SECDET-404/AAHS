@@ -24,6 +24,8 @@
 ## ``FOR RUN COMMAND``
 `ls`
 
+`git pull`
+
 `python AAHS.py`
 
 
