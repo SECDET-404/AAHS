@@ -23,6 +23,7 @@
 
 ## ``FOR RUN COMMAND``
 `ls`
+
 `python SECDET.py`
 
 
