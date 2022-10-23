@@ -1,2 +1,1 @@
-from AAHS import login
-menu()
+import AAHS
